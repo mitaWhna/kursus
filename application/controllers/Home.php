@@ -11,7 +11,6 @@
             $this->load->view('edumark/index',$data);
             $this->load->view('templates/footer0-index',$data);
             $this->load->view('templates/footer-index');
-            $this->load->view('admin/index');
         }
         function pelajaran()
         {
